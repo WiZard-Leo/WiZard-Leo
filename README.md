@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- An undergraduate from Jiangnan University, Wuxi, China
+- Interested in IOT and Pattern Recognition
 <!--
 **WiZard-Leo/WiZard-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
