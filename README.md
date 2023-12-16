@@ -1,5 +1,5 @@
 ### Hi there 👋
-- An undergraduate from Beijing Jiaotong University, Beijing, China
+- Master from Beijing Jiaotong University, Beijing, China
 - Interested in IOT and Pattern Recognition
 <!--
 **WiZard-Leo/WiZard-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
